@@ -1,3 +1,7 @@
+[![Python CI](https://github.com/shreyapatil9480/business-analysis-project/actions/workflows/python-ci.yml/badge.svg)](https://github.com/shreyapatil9480/business-analysis-project/actions/workflows/python-ci.yml)
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC)
+
 # Business Analysis Project
 
 What predicts satisfied enterprise clients?
@@ -20,6 +24,14 @@ Target variable: `satisfied`
 ```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/exploratory_analysis.ipynb
+```
+
+
+## Testing
+
+```bash
+pip install -r requirements.txt
+pytest tests/ --cov=src
 ```
 
 ## CLI Usage
