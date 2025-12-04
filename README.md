@@ -54,3 +54,14 @@ Deploy Streamlit dashboard for business self-service.
 *Analytics portfolio project — 2025-11*
 
 <!-- build 7 -->
+
+### Implemented
+
+```bash
+pip install -r requirements.txt
+streamlit run app/streamlit_app.py
+```
+
+## Live Demo
+
+Run locally with `streamlit run app/streamlit_app.py` or deploy to [Streamlit Community Cloud](https://streamlit.io/cloud).
