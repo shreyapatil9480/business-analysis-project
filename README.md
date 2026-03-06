@@ -64,4 +64,7 @@ streamlit run app/streamlit_app.py
 
 ## Live Demo
 
-Run locally with `streamlit run app/streamlit_app.py` or deploy to [Streamlit Community Cloud](https://streamlit.io/cloud).
+**[Open app](https://business-analysis-project-ouxuxizkmi549de94wd5pg.streamlit.app/)** — Streamlit Community Cloud
+
+Local run: `streamlit run app/streamlit_app.py`
+
